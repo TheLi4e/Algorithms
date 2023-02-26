@@ -1,4 +1,4 @@
-﻿using Algorithms;
+using Algorithms;
 
 var linkedList = new Algorithms.LinkedList<int>();
 linkedList.Add(1);
